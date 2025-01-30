@@ -1,0 +1,1 @@
+This repository contains a demonstration of an uncommon error in Python exception handling. The `bug.py` file shows the buggy code which omits a key exception. The `bugSolution.py` file provides the corrected code.
